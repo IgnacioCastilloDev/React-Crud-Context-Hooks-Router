@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAKA,wBAEI,YACJ,CAEA,MAEI,gBACJ","file":"main.c765451d.chunk.css","sourcesContent":["\n\n.f-pad{\n    padding: 50px;\n}\n.container-table{\n\n    padding: 50px;\n}\n\n.mr-5{\n\n    margin-right: 3px;\n}"]}
